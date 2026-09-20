@@ -1,0 +1,15 @@
+{
+  "id": "onetime-secure-share.bastyon.app",
+  "name": "Одноразовый безопасный обмен данными",
+  "description": {
+    "en": "One-time secure data exchange. Send passwords, keys, and documents with end-to-end encryption. Data self-destructs after first view.",
+    "ru": "Одноразовый безопасный обмен данными. Отправляйте пароли, ключи и документы со сквозным шифрованием. Данные самоуничтожаются после первого просмотра."
+  },
+  "author": "demo",
+  "scope": "onetime-secure-share.bastyonapps.com",
+  "permissions": [
+    "account",
+    "notifications",
+    "messaging"
+  ]
+}
